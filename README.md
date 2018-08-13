@@ -29,6 +29,12 @@ package uploads get approved in Debian unstable.
 We should allow the script to fetch emails from a self hosted mail server, as
 the changes-bot does.
 
+## Additional resources
+
+- https://github.com/athos-ribeiro/salt-obs
+- https://github.com/opencollab/llvm-slave-salt
+- https://github.com/athos-ribeiro/obs-service-clang-build
+
 # Licence
 
 obs-trigger-sid-builds
